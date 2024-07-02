@@ -17,9 +17,6 @@ But children weren't the only ones who loved Evil Coke. One day I saw my grandfa
 As I've gotten older, I've come to realize that a good Coke is more than just a taste, it's more than that. It's a memory of a carefree childhood, of summer vacations, of the people who were around. It's nostalgia for a time when the world seemed so simple and bright.
 
 Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't seem as unique anymore, but when I take a sip, I'm transported back in time.
-*** Translated with www.DeepL.com/Translator (free version) ***
-
-
 
 <h1 align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=xqjsu038xscq1shazfaeti3w3">
