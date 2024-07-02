@@ -22,6 +22,9 @@ Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't s
         <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
         <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
         <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
+        <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
+        <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
+        <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
 </div>
 <h1 align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=xqjsu038xscq1shazfaeti3w3">
