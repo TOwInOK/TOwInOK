@@ -18,6 +18,11 @@ As I've gotten older, I've come to realize that a good Coke is more than just a 
 
 Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't seem as unique anymore, but when I take a sip, I'm transported back in time.
 
+<div align="center" style="row">
+        <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
+        <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
+        <img src="https://cdn.discordapp.com/emojis/1144185080454053938.webp?size=512&quality=lossless"/>
+</div>
 <h1 align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=xqjsu038xscq1shazfaeti3w3">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=xqjsu038xscq1shazfaeti3w3&hide_explicit=1&limit=3" alt="Data Card for Spotify">
@@ -45,5 +50,6 @@ Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't s
     </div>
     <div align="center" with="100%" style="">
         <img src="https://count.getloli.com/get/@4044?theme=rul34"/>
-    </div>
+    </div >
+    
 </p>
