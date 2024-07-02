@@ -52,7 +52,11 @@ Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't s
         <img src="https://skillicons.dev/icons?i=git"/>
     </div>
     <div align="center" with="100%" style="">
-        <img src="https://count.getloli.com/get/@4044?theme=rul34"/>
+            <img src="https://rule34.xxx/counter/0.gif"/>
+            <img src="https://rule34.xxx/counter/4.gif"/>
+            <img src="https://rule34.xxx/counter/0.gif"/>
+            <img src="https://rule34.xxx/counter/4.gif"/>
+            <img src="https://rule34.xxx/counter/1.gif"/>
     </div >
     
 </p>
