@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=ts,js,next,tailwind,prisma" />
 </p>
 <p>
-    <h1>Victoria secret:</h1>
+    <h1>Victoria's secret:</h1>
     <div align="center" with="100%" style="">
         <img src="https://skillicons.dev/icons?i=git"/>
     </div>
