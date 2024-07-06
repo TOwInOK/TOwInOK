@@ -35,7 +35,7 @@ Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't s
 <p>
 <h1>Rust power:</h1>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,actix,mongo,js,htmx" />
+    <img src="https://skillicons.dev/icons?i=rust,actix,mongo,js,htmx,redis" />
   </a>
 </p>
 <p>
