@@ -40,7 +40,7 @@ Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't s
 </p>
 <p>
     <h1>CI/CD Power:</h1>
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,nix" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,nix,powershell" />
 </p>
 <p>
     <h1>Web Power:</h1>
