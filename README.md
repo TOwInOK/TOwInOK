@@ -28,7 +28,7 @@ Now that I'm an adult, I rarely see Evil Coke in the stores. Its taste doesn't s
 </div>
 <h1 align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=xqjsu038xscq1shazfaeti3w3">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=xqjsu038xscq1shazfaeti3w3&limit=4&custom_title=info%20about%20%22liked%22%20tracks%20and%20artists%20TOwInOK&hide_recents=1" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=xqjsu038xscq1shazfaeti3w3&limit=5&custom_title=info%20about%20%22liked%22%20tracks%20and%20artists%20TOwInOK&hide_recents=1" alt="Data Card for Spotify">
 </a>
 </h1>
 
