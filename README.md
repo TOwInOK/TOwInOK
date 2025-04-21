@@ -3,7 +3,7 @@
 ## Development directions
 - managers of everything
 - web libraries
-- utility macroses
+- utility macros
 - utility libraries
 - web dev
 - net dev
