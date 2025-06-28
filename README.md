@@ -49,12 +49,8 @@ blazing fast, AI-powered, code-first, data-driven, next-generation, state-of-the
     <div align="center" with="100%" style="">
         <img src="https://skillicons.dev/icons?i=git"/>
     </div>
-    <div align="center" with="100%" style="">
-            <img src="https://rule34.xxx/counter/0.gif"/>
-            <img src="https://rule34.xxx/counter/4.gif"/>
-            <img src="https://rule34.xxx/counter/0.gif"/>
-            <img src="https://rule34.xxx/counter/4.gif"/>
-            <img src="https://rule34.xxx/counter/1.gif"/>
-    </div >
+   <div align="center" style="width:100%">
+           <img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/1.gif"/><img src="https://rule34.xxx/counter/0.gif"/><img src="https://rule34.xxx/counter/0.gif"/>
+   </div>
     
 </p>
