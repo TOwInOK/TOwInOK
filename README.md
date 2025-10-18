@@ -32,13 +32,11 @@ blazing fast, memory safety, zero-cost abstractions, AI-powered, composition ove
 
 <p>
 <h1>Rust power:</h1>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,actix,mongo,js,htmx,redis" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=rust,actix,mongo,js,htmx,redis,postgres,rocket" />
 </p>
 <p>
     <h1>CI/CD Power:</h1>
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,nix,powershell" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,nix,powershell,postman,linux" />
 </p>
 <p>
     <h1>Web Power:</h1>
