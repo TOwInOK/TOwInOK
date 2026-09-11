@@ -9,7 +9,7 @@
   ▪ Technical invariant & Architecture detail
 -->
 
-# TOwInOK ▪ software engineer · systems & tools
+# TOwInOK ▪ software engineer · systems & tools · full-stack
 
 Hey. I design and build reliable software systems and tooling. Focused on explicit contracts, fault tolerance, and predictable behavior across the stack.
 
