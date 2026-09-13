@@ -51,7 +51,7 @@ Hey. I design and build reliable software systems and tooling. Focused on explic
 * ▲ **[cirno](https://github.com/TOwInOK/cirno)** `[Rust]` — Minimalist terminal startup injector. Sub-millisecond initialization, zero external dependencies, dual-language layout.
 * ○ **[tee-morphosis](https://github.com/PulseClient-ddnet/tee-morphosis)** `[Rust]` — Binary UV map parser and runtime skin reconstruction pipeline for DDNet. Eliminates unnecessary heap allocations during sprite decomposition.
 * ○ **[cdn](https://github.com/PulseClient-ddnet/cdn)** `[Rust · Ohkami]` — Edge asset distribution gateway. On-demand dynamic image transformation pipeline with disk-backed caching, serving 1,000+ active players.
-* ○ **[zen-rs](https://lib.rs/crates/zen-rs)** `[Rust · crates.io]` — Compile-time verified markup & style engine. Enforces valid CSS semantics at compile-time, eliminating runtime styling errors across HTML, SVG, and PDF targets.
+* ○ **[zen-rs](https://lib.rs/crates/zen-rs)** `[Rust]` — Compile-time verified markup & style engine. Enforces valid CSS semantics at compile-time, eliminating runtime styling errors across HTML, SVG, and PDF targets.
 * ○ **[Minecraft-Dependency-Manager](https://github.com/TOwInOK/Minecraft-Dependency-Manager)** `[Rust]` *(archived)* — Staging updater for Minecraft server cores and plugins. Automates dependency sync with progress tracking, locking verified states in `lock.toml` for production deploy.
 
 ---
