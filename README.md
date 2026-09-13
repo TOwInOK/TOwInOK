@@ -9,18 +9,17 @@
   ▪ Technical invariant & Architecture detail
 -->
 
-# TOwInOK ▪ software engineer · systems & tools · full-stack
+# TOwInOK ▪ systems & product engineer
 
 Hey. I design and build reliable software systems and tooling. Focused on explicit contracts, fault tolerance, and predictable behavior across the stack.
 
 ---
-
 ### ◈ Core Domains
 
-* **Systems & Protocols** ▪ Fault-tolerant network clients, message-passing architectures, hardware drivers, and deterministic protocol FSMs.
-* **Tooling & Runtimes** ▪ Application & instance lifecycle management, versioned runtime launchers, headless runtime automation, and developer CLI utilities.
-* **AI Systems & Integration** ▪ Production LLM integration, prompt engineering contracts, and resilient pre/post-processing systems.
-* **Web Platforms & Wasm** ▪ Full-stack TypeScript ecosystems, reactive WebAssembly SPAs, and browser-based graphic tools.
+* **Systems, Protocols & Hardware** ▪ Fault-tolerant network clients, hardware-software integration, deterministic protocol FSMs, and high-throughput binary stream processing.
+* **Tooling, Runtimes & Optimization** ▪ Algorithmic compute acceleration, declarative dependency & package management, application lifecycle automation, and compile-time verification.
+* **AI Systems & Integration** ▪ Production LLM & VLM integration, structured schema enforcement, on-device/local vision inference, and resilient pre/post-processing workflows.
+* **Product Architecture & Web Platforms** ▪ Production-grade applications, offline-first application design, reactive WebAssembly clients and dynamic edge asset delivery.
 
 ---
 
@@ -28,29 +27,31 @@ Hey. I design and build reliable software systems and tooling. Focused on explic
 
 * #### [MultiVC](https://github.com/lost-umbrella-dev/MultiVC) `[Rust]`
   ▲ *High-performance instance launcher and runtime manager for [VoxelCore](https://github.com/MihailRis/voxelcore).*
-  ▪ **Atomic state snapshots:** Version updates never mutate running environments; supports instant rollback on failure.
-  ▪ **Deduplicated cache:** Global content-addressable storage for shared core binaries and game assets across instances.
-  ▪ **Hybrid runtime:** Unified headless CLI engine alongside a responsive GUI in portable standalone mode.
+  - **Atomic state snapshots:** Version updates never mutate running environments; supports instant rollback on failure.
+  - **Deduplicated cache:** Content-addressable storage for shared core binaries and game assets across instances.
+  - **Hybrid runtime:** Unified headless CLI engine alongside a responsive GUI in portable standalone mode.
 
 * #### [matroskin](https://github.com/TOwInOK/matroskin) `[Rust]`
-  ◈ *Async, fault-tolerant client library for WhatsMiner ASIC mining fleets.*
-  ▪ **Supervised actor model:** Isolates physical TCP socket drops and reconnection logic within a dedicated Tokio actor.
-  ▪ **Strict state machine:** Enforces non-overlapping command-response lifecycles, replacing fragile raw socket polling.
-  ▪ **Production-ready API:** Typed command abstractions verified directly against physical mining hardware.
+  ◈ *Async, fault-tolerant client library for WhatsMiner ASICs.*
+  - **Supervised actor model:** Isolates physical TCP socket drops and reconnection logic within a dedicated Tokio actor.
+  - **Strict state machine:** Enforces non-overlapping command-response lifecycles, replacing fragile raw socket polling.
+  - **Production-ready API:** Typed command abstractions verified directly against physical mining hardware.
 
 * #### [SSS-rs](https://github.com/TOwInOK/SSS-rs) `[Rust · Leptos · Wasm]`
   ◇ *Zero-backend reactive developer portfolio and identity card generator.*
-  ▪ **Client-side execution:** Compiles directly to WebAssembly with live reactive DOM updates and zero backend reliance.
-  ▪ **Template engine:** Dynamic Jinja-like template expansion with real-time preview rendering in the browser.
-  ▪ **Direct export pipeline:** In-memory generation of optimized WebP, PNG, and static HTML artifacts.
+  - **Client-side execution:** Compiles directly to WebAssembly with live reactive DOM updates and zero backend reliance (or use our cli for local dev or serving).
+  - **Template engine:** Dynamic Jinja-like template expansion with real-time preview rendering in the browser.
+  - **Export pipeline:** In-memory generation of optimized WebP, PNG, static HTML artifacts or token for gha.
 
 ---
 
 ### ▲ Tier 2 ▪ Specialized Tools & Engines
 
-* ● **[tee-morphosis](https://github.com/PulseClient-ddnet/tee-morphosis)** `[Rust]` — Binary UV map parser and runtime skin reconstruction pipeline for DDNet. Eliminates unnecessary heap allocations during sprite decomposition.
-* ● **[passutil-web](https://obsidian-empire.github.io/passutil-web/)** `[React · TypeScript · Python · Tailwind]` — In-browser passport composer with WebP export and automated asset minification tooling.
-* ● **[cirno](https://github.com/TOwInOK/cirno)** `[Rust]` — Minimalist terminal startup injector. Sub-millisecond initialization, zero external dependencies, dual-language layout.
+* ◇ **[passutil-web](https://obsidian-empire.github.io/passutil-web/)** `[React · TypeScript · Python · Tailwind]` — In-browser passport composer with WebP export and automated asset minification tooling.
+* ▲ **[cirno](https://github.com/TOwInOK/cirno)** `[Rust]` — Minimalist terminal startup injector. Sub-millisecond initialization, zero external dependencies, dual-language layout.
+* ○ **[tee-morphosis](https://github.com/PulseClient-ddnet/tee-morphosis)** `[Rust]` — Binary UV map parser and runtime skin reconstruction pipeline for DDNet. Eliminates unnecessary heap allocations during sprite decomposition.
+* ○ **[cdn](https://github.com/PulseClient-ddnet/cdn)** `[Rust · Ohkami]` — Edge asset distribution gateway. On-demand dynamic image transformation pipeline with disk-backed caching, serving 1,000+ active players.
+* ○ **[zen-rs](https://lib.rs/crates/zen-rs)** `[Rust · crates.io]` — Compile-time verified markup & style engine. Enforces valid CSS semantics at compile-time, eliminating runtime styling errors across HTML, SVG, and PDF targets.
 * ○ **[Minecraft-Dependency-Manager](https://github.com/TOwInOK/Minecraft-Dependency-Manager)** `[Rust]` *(archived)* — Staging updater for Minecraft server cores and plugins. Automates dependency sync with progress tracking, locking verified states in `lock.toml` for production deploy.
 
 ---
